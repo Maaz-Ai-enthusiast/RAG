@@ -1,0 +1,143 @@
+1. Q: What is an algorithm?
+A: An algorithm is a step-by-step procedure or formula for solving a problem.
+
+2. Q: Define data structure.
+A: A data structure is a particular way of organizing and storing data so it can be accessed and modified efficiently.
+
+3. Q: Explain the difference between stack and queue.
+A: Stack follows LIFO (Last In First Out), whereas Queue follows FIFO (First In First Out) principle.
+
+4. Q: What is a linked list?
+A: A linked list is a linear data structure where each element is a separate object, called a node, connected by pointers.
+
+5. Q: Describe the Binary Search Algorithm.
+A: Binary search is a divide-and-conquer algorithm that finds the position of a target value within a sorted array.
+
+6. Q: What is recursion?
+A: Recursion is a method where a function calls itself to solve a problem.
+
+7. Q: Define Big O notation.
+A: Big O notation is a mathematical notation used to describe the upper bound of an algorithm's running time.
+
+8. Q: What is a hash table?
+A: A hash table is a data structure that maps keys to values for efficient lookup, insertion, and deletion.
+
+9. Q: Explain bubble sort.
+A: Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+
+10. Q: What is the difference between an array and a linked list?
+A: An array has a fixed size and is stored contiguously, while a linked list has a variable size and uses pointers to link nodes.
+
+11. Q: Define stack overflow.
+A: Stack overflow occurs when too much memory is used on the call stack, typically due to deep or infinite recursion.
+
+12. Q: What is a binary tree?
+A: A binary tree is a hierarchical structure with a root node, where each node has at most two child nodes.
+
+13. Q: Describe the quicksort algorithm.
+A: Quicksort is a divide-and-conquer algorithm that selects a pivot and partitions the array around it.
+
+14. Q: What is dynamic programming?
+A: Dynamic programming is a technique for solving problems by breaking them down into overlapping subproblems and solving each only once.
+
+15. Q: Explain the term ‘graph’ in DSA.
+A: A graph is a data structure consisting of nodes (or vertices) connected by edges.
+
+16. Q: Define depth-first search (DFS).
+A: DFS is an algorithm for traversing or searching tree or graph structures by exploring as far along each branch as possible before backtracking.
+
+17. Q: What is breadth-first search (BFS)?
+A: BFS is an algorithm for traversing or searching tree or graph structures by visiting all the nodes at the current depth before moving to nodes at the next depth level.
+
+18. Q: Describe a heap.
+A: A heap is a special tree-based structure in which the parent node is either greater than (max-heap) or less than (min-heap) the child nodes.
+
+19. Q: Explain the term ‘sorting algorithm.’
+A: Sorting algorithms are techniques used to arrange elements of a list or array in a certain order, such as ascending or descending.
+
+20. Q: What is a circular queue?
+A: A circular queue is a linear data structure that connects the end of the queue back to the front, forming a circle.
+
+21. Q: Define merge sort.
+A: Merge sort is a divide-and-conquer algorithm that divides the list into halves, sorts each half, and merges them back together.
+
+22. Q: What is a doubly linked list?
+A: A doubly linked list is a linked list where each node has two pointers: one pointing to the next node and one to the previous node.
+
+23. Q: Explain hashing in DSA.
+A: Hashing is the process of mapping data of arbitrary size to fixed-size values, commonly used in hash tables.
+
+24. Q: What is the time complexity of binary search?
+A: The time complexity of binary search is O(log n).
+
+25. Q: Define tree traversal.
+A: Tree traversal is the process of visiting all nodes in a tree data structure in a specific order.
+
+26. Q: What is selection sort?
+A: Selection sort is a sorting algorithm that repeatedly selects the smallest element and places it in the sorted portion.
+
+27. Q: Describe an AVL tree.
+A: An AVL tree is a self-balancing binary search tree where the difference between heights of left and right subtrees cannot be more than one for any node.
+
+28. Q: What is a priority queue?
+A: A priority queue is a type of queue where each element is associated with a priority and elements are served based on their priority.
+
+29. Q: Explain insertion sort.
+A: Insertion sort is a sorting algorithm that builds the final sorted array one item at a time by inserting each element in its proper place.
+
+30. Q: What is graph traversal?
+A: Graph traversal is the process of visiting all nodes in a graph systematically.
+
+31. Q: What are binary search trees (BST)?
+A: A BST is a binary tree where the left subtree of a node contains values less than the node, and the right subtree contains values greater than the node.
+
+32. Q: Explain memoization in dynamic programming.
+A: Memoization is a technique in dynamic programming where results of expensive function calls are stored and reused.
+
+33. Q: What is an adjacency matrix?
+A: An adjacency matrix is a square matrix used to represent a graph, where elements indicate if pairs of vertices are adjacent.
+
+34. Q: Define backtracking.
+A: Backtracking is a general algorithmic technique that incrementally builds solutions and abandons them if they are found to be invalid.
+
+35. Q: Describe Kruskal's algorithm.
+A: Kruskal's algorithm finds the minimum spanning tree of a graph by adding edges in order of increasing weight.
+
+36. Q: What is Floyd-Warshall algorithm?
+A: Floyd-Warshall is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights.
+
+37. Q: Define the knapsack problem.
+A: The knapsack problem is an optimization problem where items with weights and values are selected to maximize value without exceeding weight capacity.
+
+38. Q: Explain depth of a tree.
+A: Depth of a tree is the number of edges from the tree's root node to the farthest leaf node.
+
+39. Q: What is a trie?
+A: A trie is a tree-like data structure used for storing dynamic sets of strings, typically for efficient string searching.
+
+40. Q: Describe the Floyd cycle detection algorithm.
+A: Floyd's cycle detection algorithm, also known as the Tortoise and Hare algorithm, detects cycles in a sequence of nodes.
+
+41. Q: What is linear probing?
+A: Linear probing is a collision resolution method in hash tables, where the next slot is checked linearly until an empty slot is found.
+
+42. Q: Define spanning tree.
+A: A spanning tree is a subset of a graph that includes all vertices with the minimum possible number of edges.
+
+43. Q: What is divide and conquer?
+A: Divide and conquer is a paradigm that divides a problem into smaller subproblems, solves each recursively, and combines results.
+
+44. Q: Explain a max heap.
+A: A max heap is a binary tree where each parent node is greater than or equal to its child nodes.
+
+45. Q: What is a balanced tree?
+A: A balanced tree is a tree where the heights of the left and right subtrees of any node differ by no more than one.
+
+46. Q: What is the complexity of merge sort?
+A: The time complexity of merge sort is O(n log n).
+
+47. Q: Define edge in graph theory.
+A: An edge is a connection between two vertices in a graph.
+
+48. Q: What is radix sort?
+A: Radix sort is a non-comparative sorting algorithm that sorts numbers by processing individual digits.
