@@ -1,5 +1,3 @@
-# Install Streamlit and required libraries if running for the first time
-!pip install streamlit sentence-transformers transformers scikit-learn
 
 import streamlit as st
 from sentence_transformers import SentenceTransformer
